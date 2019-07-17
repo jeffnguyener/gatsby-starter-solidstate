@@ -42,9 +42,6 @@ const IndexPage = () => (
               <p>
                 My wife and I visited Paris and did a short photo shoot right off the Pont de Bir-Hakeim. 
               </p>
-              <a href="/#" className="special">
-                Learn more
-              </a>
             </article>
           </section>
         </div>
