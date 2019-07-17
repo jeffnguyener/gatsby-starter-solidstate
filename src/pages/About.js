@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import pic1 from '../assets/images/pic01.jpg';
-import pic5 from '../assets/images/pic05.jpg';
+import pic2 from '../assets/images/pic02.jpg';
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -21,10 +21,7 @@ const IndexPage = () => (
           </p>
           <h3 className="major">My Travels</h3>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+            Here are some of my favorite destinations I have travelled to. 
           </p>
 
           <section className="features">
@@ -32,23 +29,18 @@ const IndexPage = () => (
               <a href="/#" className="image">
                 <img src={pic1} alt="" />
               </a>
-              <h3 className="major">Sed feugiat lorem</h3>
+              <h3 className="major">Colliseum</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                Got a chance to visit Rome and saw how big the historical Colliseum was. 
               </p>
-              <a href="/#" className="special">
-                Learn more
-              </a>
             </article>
             <article>
               <a href="/#" className="image">
-                <img src={pic5} alt="" />
+                <img src={pic2} alt="" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">Eiffel Tower</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                My wife and I visited Paris and did a short photo shoot right off the Pont de Bir-Hakeim. 
               </p>
               <a href="/#" className="special">
                 Learn more
