@@ -6,7 +6,7 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'fa-rocket',
+  manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `quizzical-shirley-342bcc.netlify.com`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Jeff Nguyen',
   subHeading: 'Web Developer',
