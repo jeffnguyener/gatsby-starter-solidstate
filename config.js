@@ -18,7 +18,7 @@ module.exports = {
       url: 'https://github.com/jeffnguyener',
     },
     {
-      icon: 'fa-linkedin-square',
+      icon: 'fa-linkedin',
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/jeff-nguyen-72776653/',
     },
