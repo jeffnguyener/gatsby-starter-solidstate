@@ -2,6 +2,9 @@ import React from 'react';
 import Layout from '../components/Layout';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
+import pic3 from '../assets/images/pic03.jpg';
+import pic4 from '../assets/images/pic04.jpg';
+
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -25,6 +28,15 @@ const IndexPage = () => (
           </p>
 
           <section className="features">
+          <article>
+              <a href="/#" className="image">
+                <img src={pic3} alt="" />
+              </a>
+              <h3 className="major">Deligate Arch</h3>
+              <p>
+                Recently I went to Arches National Park and hiked to the Deligate Arch.  
+              </p>
+            </article>
             <article>
               <a href="/#" className="image">
                 <img src={pic1} alt="" />
@@ -41,6 +53,15 @@ const IndexPage = () => (
               <h3 className="major">Eiffel Tower</h3>
               <p>
                 My wife and I visited Paris and did a short photo shoot right off the Pont de Bir-Hakeim. 
+              </p>
+            </article>
+            <article>
+              <a href="/#" className="image">
+                <img src={pic4} alt="" />
+              </a>
+              <h3 className="major">Observation Point</h3>
+              <p>
+                This was quite a hike but I hiked 6508 feet up to Observation Point in Zion National Park. 
               </p>
             </article>
           </section>
