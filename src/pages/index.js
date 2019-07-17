@@ -30,7 +30,7 @@ const IndexPage = () => (
             HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙ Express.js ∙ Massive.js
             </p>
             <a href="/Projects" className="special">
-              Learn more
+              My Portfolio
             </a>
           </div>
         </div>
