@@ -23,6 +23,11 @@ module.exports = {
       url: 'https://www.linkedin.com/in/jeff-nguyen-72776653/',
     },
     {
+      icon: 'fa-file-text-o',
+      name: 'Résumé',
+      url: 'https://drive.google.com/open?id=11DCGU8Q1rdTUVK-FwCKNOZ4PpK6ZFmTp',
+    },
+    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:jeffnguyen.83@gmail.com',
