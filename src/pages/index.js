@@ -27,7 +27,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Skills</h2>
             <p>
-            HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙ Express.js ∙ Massive.js
+            HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙ Express.js ∙ Massive.js ∙ Git ∙ Bcrypt ∙ Axios
             </p>
             <a href="/Projects" className="special">
               My Portfolio
