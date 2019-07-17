@@ -19,7 +19,7 @@ const IndexPage = () => (
         <div className="inner">
           <section className="features">
             <article>
-              <a href="www.ochibastudio.com/" className="image">
+              <a href="https://www.ochibastudio.com" className="image">
                 <img src={pic5} alt="os" />
               </a>
               <h3 className="major">Ochiba Studio</h3>
@@ -38,6 +38,12 @@ const IndexPage = () => (
                 className="special"
               >
                 Github Repo
+              </a>
+              <a
+                href="https://www.ochibastudio.com"
+                className="special"
+              >
+                Live site
               </a>
             </article>
             <article>
