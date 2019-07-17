@@ -64,6 +64,12 @@ const IndexPage = () => (
               >
                 Github Repo
               </a>
+              <a
+                href="http://157.230.159.89:3333/#/"
+                className="special"
+              >
+                Live site
+              </a>
             </article>
           </section>
         </div>
