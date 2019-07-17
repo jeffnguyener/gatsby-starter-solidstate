@@ -34,7 +34,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Deligate Arch</h3>
               <p>
-                Recently I went to Arches National Park and hiked to the Deligate Arch.  
+                Recently I went to Arches National Park and hiked to the Deligate Arch. The hike was short but intense. 
               </p>
             </article>
             <article>
@@ -43,7 +43,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Colliseum</h3>
               <p>
-                Got a chance to visit Rome and saw how big the historical Colliseum was. 
+                Got a chance to visit Rome and saw how big the historical Colliseum was. It's amazing seeing this in person.
               </p>
             </article>
             <article>
@@ -52,7 +52,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Eiffel Tower</h3>
               <p>
-                My wife and I visited Paris and did a short photo shoot right off the Pont de Bir-Hakeim. 
+                My wife and I visited Paris and did a short photo shoot right off the Pont de Bir-Hakeim. This was one of my favorite places I've travelled so far.  
               </p>
             </article>
             <article>
@@ -61,7 +61,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Observation Point</h3>
               <p>
-                This was quite a hike but I hiked 6508 feet up to Observation Point in Zion National Park. 
+                This was quite a hike but I hiked 6508 feet up to Observation Point in Zion National Park. Can't wait to go back to hike the other trails in this national park.
               </p>
             </article>
           </section>
