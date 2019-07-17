@@ -20,7 +20,7 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">Personal Profile</h3>
           <p>
-          I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. On my off time, I enjoy traveling and hikes through national parks around the U.S. with my wife.
+          On my off time, I enjoy traveling and hikes through national parks around the U.S. with my wife.
           </p>
           <h3 className="major">My Travels</h3>
           <p>

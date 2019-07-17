@@ -24,7 +24,7 @@ export default function Nav({ onMenuToggle = () => {} }) {
               }}
               to="/About"
             >
-              About
+              About Me
             </Link>
           </li>
           <li>
