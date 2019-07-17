@@ -2,7 +2,6 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import pic1 from '../assets/images/pic01.jpg';
 import pic9 from '../assets/images/pic09.png';
 
 
