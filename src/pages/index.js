@@ -29,7 +29,7 @@ const IndexPage = () => (
             <p>
               I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. 
             </p>
-            <a href="/Projects" className="special">
+            <a href="/About" className="special">
               About Me
             </a>
           </div>
@@ -46,7 +46,7 @@ const IndexPage = () => (
               HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙
               Express.js ∙ Massive.js ∙ Git ∙ Bcrypt ∙ Axios
             </p>
-            <a href="/#" className="special">
+            <a href="/Projects" className="special">
             My Portfolio
             </a>
           </div>
