@@ -25,7 +25,7 @@ const IndexPage = () => (
             <img src={pic10} alt="se-logo" />
           </a>
           <div className="content">
-            <h2 className="major">Intro</h2>
+            <h2 className="major">Story</h2>
             <p>
               I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. 
             </p>
