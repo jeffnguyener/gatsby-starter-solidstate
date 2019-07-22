@@ -20,7 +20,7 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">Personal Profile</h3>
           <p>
-          On my off time, I enjoy traveling around the world and hikes through national parks around the U.S. with my wife. 
+          On my off time, I enjoy traveling around the world and hiking through national parks around the U.S. with my wife. 
           </p>
           <h3 className="major">My Travels</h3>
           <p>
