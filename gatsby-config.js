@@ -10,6 +10,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
+        trackingId: UA-23553372-3,
         name: config.manifestName,
         short_name: config.manifestShortName,
         start_url: config.pathPrefix || config.manifestStartUrl,
