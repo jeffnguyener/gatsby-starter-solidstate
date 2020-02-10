@@ -20,7 +20,7 @@ module.exports = {
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/jeff-nguyen-72776653/',
+      url: 'https://www.linkedin.com/in/jeff-n-72776653/',
     },
     {
       icon: 'fa-file-text-o',
