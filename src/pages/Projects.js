@@ -80,7 +80,7 @@ const IndexPage = () => (
                 HTML/CSS, JavaScript and React. I also used Open Weather API to grab the data into the app. This app displays current weather reading in degrees fahrenheit along with icons of the weather, high & lows of the day, wind speeds and humidity by percentage. 
               </p>
               <a
-                href="https://github.com/game-show-wlh5/gamified"
+                href="https://github.com/jeffnguyener/weather-app"
                 className="special"
               >
                 Github Repo
