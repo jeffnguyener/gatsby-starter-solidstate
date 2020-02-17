@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from '../components/Layout';
 import pic6 from '../assets/images/pic06.jpg';
 import pic5 from '../assets/images/pic05.jpg';
+import weatherApp from '../assets/images/weather-app.png';
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -67,6 +68,22 @@ const IndexPage = () => (
                 className="special"
               >
                 Live site
+              </a>
+            </article>
+            <article>
+            <a href="http://157.230.159.89:3333/#/" className="image">
+                <img src={weatherApp} alt="gamified" />
+              </a>
+              <h3 className="major">Weather App</h3>
+              <p>
+                A weather app project where it displays current weather anywhere around the world. This application was built with
+                HTML/CSS, JavaScript and React. I also used Open Weather API to grab the data into the app. This app displays current weather reading in degrees fahrenheit along with icons of the weather, high & lows of the day, wind speeds and humidity by percentage. 
+              </p>
+              <a
+                href="https://github.com/game-show-wlh5/gamified"
+                className="special"
+              >
+                Github Repo
               </a>
             </article>
           </section>
