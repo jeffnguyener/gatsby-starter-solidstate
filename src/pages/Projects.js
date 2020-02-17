@@ -3,6 +3,7 @@ import Layout from '../components/Layout';
 import pic6 from '../assets/images/pic06.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 import weatherApp from '../assets/images/weather-app.png';
+import calApp from '../assets/images/calculater-app.png'
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -66,7 +67,7 @@ const IndexPage = () => (
             </article>
             <article>
             <a href="http://157.230.159.89:3333/#/" className="image">
-                <img src={weatherApp} alt="gamified" />
+                <img src={weatherApp} alt="weather" />
               </a>
               <h3 className="major">Weather App</h3>
               <p>
@@ -75,6 +76,22 @@ const IndexPage = () => (
               </p>
               <a
                 href="https://github.com/jeffnguyener/weather-app"
+                className="special"
+              >
+                Github Repo
+              </a>
+            </article>
+            <article>
+            <a href="http://157.230.159.89:3333/#/" className="image">
+                <img src={calApp} alt="calculator" />
+              </a>
+              <h3 className="major">Weather App</h3>
+              <p>
+                A calculator app project where you can do simple mathmathical calculations. This application was built with
+                HTML/CSS and Vanilla JavaScript. With this application, you can add, subtract, multiply and divide numerals with a simple click. 
+              </p>
+              <a
+                href="https://github.com/jeffnguyener/calculator-app"
                 className="special"
               >
                 Github Repo
