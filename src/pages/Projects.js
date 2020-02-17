@@ -85,7 +85,7 @@ const IndexPage = () => (
             <a href="http://157.230.159.89:3333/#/" className="image">
                 <img src={calApp} alt="calculator" />
               </a>
-              <h3 className="major">Weather App</h3>
+              <h3 className="major">Calculator App</h3>
               <p>
                 A calculator app project where you can do simple mathmathical calculations. This application was built with
                 HTML/CSS and Vanilla JavaScript. With this application, you can add, subtract, multiply and divide numerals with a simple click. 
