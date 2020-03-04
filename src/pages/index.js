@@ -27,7 +27,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Story</h2>
             <p>
-              I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. Currently I reside in Mobile, AL and I am open to relocate to further my journey as a developer. 
+              I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. Currently I reside in Alabama and I am open to relocate to further my journey as a developer. 
             </p>
             <a href="/About" className="special">
               About Me
