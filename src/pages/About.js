@@ -20,7 +20,7 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">Personal Profile</h3>
           <p>
-          On my off time, I do a little bit of traveling and hiking with my wife. I also love photography and spending time with my closest friends & family. 
+          On my off time, I enjoy eating all types of foods because I'm a huge foodie , also photography, traveling and hiking with my wife.
           </p>
           <h3 className="major">My Travels</h3>
           <p>
