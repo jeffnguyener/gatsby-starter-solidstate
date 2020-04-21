@@ -39,6 +39,12 @@ const IndexPage = () => (
               >
                 Github Repo
               </a>
+              <a
+                href="https://www.ochibastudio.com/"
+                className="special"
+              >
+                Live site
+              </a>
             </article>
             <article>
               <a href="http://157.230.159.89:3333/#/" className="image">
