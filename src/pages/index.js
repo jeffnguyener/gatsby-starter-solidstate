@@ -44,7 +44,7 @@ const IndexPage = () => (
             <h2 className="major">Knowledge & Skills</h2>
             <p>
               HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙
-              Express.js ∙ Massive.js ∙ Git ∙ Bcrypt ∙ Axios ∙ Visual Studio Code ∙ Adobe XD
+              Express.js ∙ Git ∙ Bcrypt ∙ Axios ∙ Visual Studio Code ∙ Adobe XD ∙ JIRA
             </p>
             <a href="/Projects" className="special">
             My Portfolio
