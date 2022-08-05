@@ -27,7 +27,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Story</h2>
             <p>
-              I have been intrigued in the software development side for years and decided to take action by attending DevMountain to further my skills. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better developer. Currently I reside in Alabama and I am open to relocate to further my journey as a developer. 
+            I have been assisting in the expansion of the university's health system in design & software development for a couple years now. I have strong passion in problem solving & learning. I'm always looking for ways to overcome and push myself to be a better designer & developer. 
             </p>
             <a href="/About" className="special">
               About Me
@@ -43,8 +43,8 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Knowledge & Skills</h2>
             <p>
-              HTML ∙ CSS3 ∙ JavaScript ∙ React ∙ Redux ∙ Node.js ∙ PostgreSQL ∙
-              Express.js ∙ Git ∙ Bcrypt ∙ Axios ∙ Visual Studio Code ∙ Adobe XD ∙ JIRA
+              HTML ∙ CSS3 ∙ JavaScript ∙ PostgreSQL ∙ SASS ∙ Adobe Creative Cloud ∙ 
+              Git ∙ Microsoft Office ∙ Visual Studio Code ∙ Adobe XD ∙ JIRA
             </p>
             <a href="/Projects" className="special">
             My Portfolio
