@@ -25,7 +25,7 @@ module.exports = {
     {
       icon: 'fa-file-text-o',
       name: 'Résumé',
-      url: 'https://drive.google.com/file/d/1Rr-OLMeixKQkfChC65VDBk6lCq5uyDB-/view',
+      url: 'https://drive.google.com/file/d/10JR2ohItHee_YUMPyeYeVYwXcQ2eUVZs/',
     },
     {
       icon: 'fa-envelope-o',
