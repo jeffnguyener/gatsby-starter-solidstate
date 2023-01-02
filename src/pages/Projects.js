@@ -71,38 +71,7 @@ const IndexPage = () => (
                 Live site
               </a>
             </article>
-            <article>
-            <a href="http://157.230.159.89:3333/#/" className="image">
-                <img src={weatherApp} alt="weather" />
-              </a>
-              <h3 className="major">Weather App</h3>
-              <p>
-                A weather app project where it displays current weather anywhere around the world. This application was built with
-                HTML/CSS, JavaScript and React. I also used Open Weather API to grab the data into the app. This app displays current weather reading in degrees fahrenheit along with icons of the weather, high & lows of the day, wind speeds and humidity by percentage. 
-              </p>
-              <a
-                href="https://github.com/jeffnguyener/weather-app"
-                className="special"
-              >
-                Github Repo
-              </a>
-            </article>
-            <article>
-            <a href="http://157.230.159.89:3333/#/" className="image">
-                <img src={calApp} alt="calculator" />
-              </a>
-              <h3 className="major">Calculator App</h3>
-              <p>
-                A calculator app project where you can do simple mathmathical calculations. This application was built with
-                HTML/CSS and Vanilla JavaScript. With this application, you can add, subtract, multiply and divide numerals with a simple click. 
-              </p>
-              <a
-                href="https://github.com/jeffnguyener/calculator-app"
-                className="special"
-              >
-                Github Repo
-              </a>
-            </article>
+            
           </section>
         </div>
       </div>
