@@ -71,8 +71,7 @@ const IndexPage = () => (
                 Live site
               </a>
             </article>
-            
-          </section>
+           </section>
         </div>
       </div>
     </section>
