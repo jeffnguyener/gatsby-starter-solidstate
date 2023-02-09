@@ -2,8 +2,7 @@ import React from 'react';
 import Layout from '../components/Layout';
 import pic6 from '../assets/images/pic06.jpg';
 import pic5 from '../assets/images/pic05.jpg';
-import weatherApp from '../assets/images/weather-app.png';
-import calApp from '../assets/images/calculater-app.png'
+import pic11 from '../assets/images/pic11.png';
 
 const IndexPage = () => (
   <Layout fullMenu>
