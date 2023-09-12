@@ -118,10 +118,10 @@ const IndexPage = () => (
               <h3 className="major">Children's & Women's NICU Patient Portal</h3>
               <p>
                 <b>Brief Project Description</b><br></br>
-                Currently, the USA Health Security Team manually manages which users in their system have access to shared mail inboxes and shared calendars as well as the level of permissions they are allowed. Typically, a user would reach out to an administrator and request access to a specific inbox or calendar, the administrator would then run the powershell commands that would give the user the necessary permissions and the level of access that they choose. The process proves to be very repetitive to the administrator. The project aims to automate this process by instead of  having the user reach out directly to the administrator, they would simply use a web application to request permissions. From this application, they would request select to request to either a mailbox or a calendar then if it is approved, a powershell command script within the application will run and provide the user the requested permissions.
+                The USA Health Children's and Women's Hospital NICU patient portal is a secure online application that allows parents and guardians of infants in the NICU to access their child's medical information. The NICU team wanted a platform that would allow parents/guardians to access their child's medical information, important resources of being a new parent/guardian and a way to sign up for classes to learn about caring for their child.
               </p>
               <a
-                href="https://xd.adobe.com/view/bd2309ff-61bc-428e-b6e2-1f47d8f1c04c-e870/"
+                href="https://nicu.usahealthsystem.com/"
                 className="special"
               >
                 Adobe XD Prototype
