@@ -86,6 +86,47 @@ const IndexPage = () => (
                 Adobe XD Prototype
               </a>
             </article>
+            <article>
+              <a href="http://157.230.159.89:3333/#/" className="image">
+                <img src={pic6} alt="gamified" />
+              </a>
+              <h3 className="major">Game Train</h3>
+              <p>
+                Game Train is a group developed project. This application was built with
+                HTML/CSS, React, Node.JS, Socket.io, Redux & JavaScript. A game
+                designed for professionals to educate in a fun way. The admins
+                can utilize tools to load questions and answers then it would
+                generate a unique ID for students or people to play and learn.
+              </p>
+              <a
+                href="https://github.com/game-show-wlh5/gamified"
+                className="special"
+              >
+                Github Repo
+              </a>
+              <a
+                href="http://157.230.159.89:3333/#/"
+                className="special"
+              >
+                Live site
+              </a>
+            </article>
+            <article>
+              <a href="https://xd.adobe.com/view/bd2309ff-61bc-428e-b6e2-1f47d8f1c04c-e870/" className="image">
+                <img src={cwpp} alt="cwpp" />
+              </a>
+              <h3 className="major">Children's & Women's NICU Patient Portal</h3>
+              <p>
+                <b>Brief Project Description</b><br></br>
+                Currently, the USA Health Security Team manually manages which users in their system have access to shared mail inboxes and shared calendars as well as the level of permissions they are allowed. Typically, a user would reach out to an administrator and request access to a specific inbox or calendar, the administrator would then run the powershell commands that would give the user the necessary permissions and the level of access that they choose. The process proves to be very repetitive to the administrator. The project aims to automate this process by instead of  having the user reach out directly to the administrator, they would simply use a web application to request permissions. From this application, they would request select to request to either a mailbox or a calendar then if it is approved, a powershell command script within the application will run and provide the user the requested permissions.
+              </p>
+              <a
+                href="https://xd.adobe.com/view/bd2309ff-61bc-428e-b6e2-1f47d8f1c04c-e870/"
+                className="special"
+              >
+                Adobe XD Prototype
+              </a>
+            </article>
            </section>
         </div>
       </div>
