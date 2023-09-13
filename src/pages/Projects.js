@@ -122,10 +122,16 @@ const IndexPage = () => (
                 The USA Health Children's and Women's Hospital NICU patient portal is a secure online application that allows parents and guardians of infants in the NICU to access their child's medical information. The NICU team wanted a platform that would allow parents/guardians to access their child's medical information, important resources of being a new parent/guardian and a way to sign up for classes to learn about caring for their child.
               </p>
               <a
-                href="https://nicu.usahealthsystem.com/"
+                href="https://xd.adobe.com/view/bd2309ff-61bc-428e-b6e2-1f47d8f1c04c-e870/"
                 className="special"
               >
                 Adobe XD Prototype
+              </a>
+              <a
+                href="https://nicu.usahealthsystem.com/"
+                className="special"
+              >
+                Live Site
               </a>
             </article>
            </section>
