@@ -3,6 +3,7 @@ import Layout from '../components/Layout';
 import pic6 from '../assets/images/pic06.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 import pic11 from '../assets/images/pic11.png';
+import cwpp from '../assets/images/cwpp.png';
 
 const IndexPage = () => (
   <Layout fullMenu>
