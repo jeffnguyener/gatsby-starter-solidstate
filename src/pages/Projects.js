@@ -87,31 +87,6 @@ const IndexPage = () => (
               </a>
             </article>
             <article>
-              <a href="http://157.230.159.89:3333/#/" className="image">
-                <img src={pic6} alt="gamified" />
-              </a>
-              <h3 className="major">Game Train</h3>
-              <p>
-                Game Train is a group developed project. This application was built with
-                HTML/CSS, React, Node.JS, Socket.io, Redux & JavaScript. A game
-                designed for professionals to educate in a fun way. The admins
-                can utilize tools to load questions and answers then it would
-                generate a unique ID for students or people to play and learn.
-              </p>
-              <a
-                href="https://github.com/game-show-wlh5/gamified"
-                className="special"
-              >
-                Github Repo
-              </a>
-              <a
-                href="http://157.230.159.89:3333/#/"
-                className="special"
-              >
-                Live site
-              </a>
-            </article>
-            <article>
               <a href="https://xd.adobe.com/view/bd2309ff-61bc-428e-b6e2-1f47d8f1c04c-e870/" className="image">
                 <img src={cwpp} alt="cwpp" />
               </a>
