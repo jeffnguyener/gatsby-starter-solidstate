@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `quizzical-shirley-342bcc.netlify.com`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Jeff Nguyen',
-  subHeading: 'UI/UX Developer',
+  subHeading: 'Fullstack Developer',
   // social
   socialLinks: [
     {
