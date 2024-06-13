@@ -44,7 +44,7 @@ const IndexPage = () => (
             <h2 className="major">Knowledge & Skills</h2>
             <p>
               HTML ∙ CSS3 ∙ JavaScript ∙ PostgreSQL ∙ SASS ∙ Adobe Creative Cloud ∙ 
-              Git ∙ Microsoft Office ∙ Visual Studio Code ∙ Adobe XD ∙ JIRA ∙ SharePoint
+              Git ∙ Microsoft Office ∙ Visual Studio Code ∙ Adobe XD ∙ JIRA ∙ SharePoint ∙ Power Bi
             </p>
             <a href="/Projects" className="special">
             My Portfolio
