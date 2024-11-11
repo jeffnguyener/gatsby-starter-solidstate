@@ -26,7 +26,7 @@ const IndexPage = () => (
               <p>
                 Ochiba Studio is an e-commerce application designed for
                 photographers with extra perks. It was built with HTML/CSS,
-                React, JavaScript, NodeJS, PostgreSQL, Redux, Amazon S3, &
+                React, JavaScript, Node.JS, PostgreSQL, Redux, Amazon S3, &
                 Stripe-checkout. This app allows the admin to communicate to
                 their clients and showcase their art of photography. The client
                 can also purchase packages to book their photoshoot via
