@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `quizzical-shirley-342bcc.netlify.com`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Jeff Nguyen',
-  subHeading: 'Fullstack Developer',
+  subHeading: 'Full-Stack Developer',
   // social
   socialLinks: [
     {
@@ -20,12 +20,12 @@ module.exports = {
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/jeff-nguyen-72776653/',
+      url: 'https://tinyurl.com/hjnlinkedin',
     },
     {
       icon: 'fa-file-text-o',
       name: 'Résumé',
-      url: 'https://drive.google.com/file/d/10JR2ohItHee_YUMPyeYeVYwXcQ2eUVZs/',
+      url: 'https://tinyurl.com/hjnresume',
     },
     {
       icon: 'fa-envelope-o',
