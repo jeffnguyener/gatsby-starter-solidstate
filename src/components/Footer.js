@@ -35,7 +35,7 @@ export default function Footer() {
             return (
               <li className={`${icon}`} key={url}>
                 <div className="name">{name}</div>
-                <a href={url}>{url}</a>
+                <a href={url}>{name}</a>
               </li>
             );
           })}
